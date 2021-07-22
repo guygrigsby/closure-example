@@ -9,7 +9,7 @@ To run:
 
 Endoint:
 | Method | endpoint |
---------
+|--------|----------|
 | GET | /standard |
 | GET | /closure |
 
